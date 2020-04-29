@@ -152,7 +152,7 @@ Koszt: %s"/>
 		<!--e k="GC_market_showDetails" v="Szczegóły"/>
 		<e k="GC_market_date" v="Data"/>
 		<e k="GC_market_name" v="Nazwa"/>
-		<e k="GC_market_type" v="Artykół"/>
+		<e k="GC_market_type" v="Produkt"/>
 		<e k="GC_market_liter" v="Litry"/>
 		<e k="GC_market_money" v="Cena"/>
 		<e k="GC_market_designation" v="Opis"/-->
